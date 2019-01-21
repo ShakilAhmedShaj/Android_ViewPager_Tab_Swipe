@@ -37,7 +37,7 @@ public class ViewPagerAdapter extends FragmentPagerAdapter {
     @Override
     public int getCount() {
 
-        return 3;
+        return 10;
     }
 
     @Nullable
